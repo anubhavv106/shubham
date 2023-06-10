@@ -1,0 +1,12 @@
+2023-06-10 06:02:53.419 [info] Log level: Info
+2023-06-10 06:02:53.419 [info] Validating found git in: "git"
+2023-06-10 06:02:53.419 [info] Using git "2.34.1" from "git"
+2023-06-10 06:02:53.419 [info] > git rev-parse --show-toplevel [13ms]
+2023-06-10 06:02:53.419 [info] > git rev-parse --show-toplevel [6ms]
+2023-06-10 06:02:53.419 [info] > git rev-parse --show-toplevel [123ms]
+2023-06-10 06:02:53.419 [info] > git rev-parse --show-toplevel [11ms]
+2023-06-10 06:02:53.419 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-10 06:02:53.419 [info] > git rev-parse --show-toplevel [8ms]
+2023-06-10 06:02:53.420 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-10 06:02:55.528 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-10 06:03:32.414 [info] > git rev-parse --show-toplevel [6ms]

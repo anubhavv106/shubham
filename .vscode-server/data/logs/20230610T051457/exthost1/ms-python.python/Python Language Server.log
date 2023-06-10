@@ -1,0 +1,21 @@
+2023-06-10 05:15:03.472 [info] [Info  - 5:15:03 AM] (1609326) Pylance language server 2023.6.10 (pyright 7784093a) starting
+2023-06-10 05:15:03.478 [info] [Info  - 5:15:03 AM] (1609326) Server root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-10 05:15:03.478 [info] [Info  - 5:15:03 AM] (1609326) Starting service instance "DrNilakshiJain-main"
+2023-06-10 05:15:03.564 [info] [Info  - 5:15:03 AM] (1609326) Setting pythonPath for service "DrNilakshiJain-main": "/bin/python3"
+2023-06-10 05:15:03.564 [info] [Info  - 5:15:03 AM] (1609326) Loading pyproject.toml file at /home/shubham/DrNilakshiJain-main/pyproject.toml
+2023-06-10 05:15:03.564 [info] [Info  - 5:15:03 AM] (1609326) Pyproject file "/home/shubham/DrNilakshiJain-main/pyproject.toml" has no "[tool.pyright]" section.
+2023-06-10 05:15:03.565 [info] [Warn  - 5:15:03 AM] (1609326) stubPath /home/shubham/DrNilakshiJain-main/typings is not a valid directory.
+2023-06-10 05:15:03.627 [info] [Info  - 5:15:03 AM] (1609326) Assuming Python version 3.10
+2023-06-10 05:15:03.802 [info] [Info  - 5:15:03 AM] (1609326) Auto-excluding /home/shubham/DrNilakshiJain-main/nilakshijain/myenv
+2023-06-10 05:15:03.833 [info] [Info  - 5:15:03 AM] (1609326) Found 43 source files
+2023-06-10 05:15:04.272 [info] [Info  - 5:15:04 AM] (1609326) Background analysis(1) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-10 05:15:04.279 [info] [Info  - 5:15:04 AM] (1609326) Background analysis(1) started
+2023-06-10 08:45:28.195 [info] [Info  - 8:45:28 AM] (1609326) Indexer background runner(2) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-10 08:45:28.196 [info] [Info  - 8:45:28 AM] (1609326) Indexing(2) started
+2023-06-10 08:45:28.735 [info] [Info  - 8:45:28 AM] (1609326) scanned(2) 169 files over 1 exec env
+2023-06-10 08:45:29.206 [info] [Info  - 8:45:29 AM] (1609326) [BG(1)] Long operation: checking: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py (2045ms)
+2023-06-10 08:45:29.207 [info] [Info  - 8:45:29 AM] (1609326) [BG(1)] Long operation: analyzing: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py (2138ms)
+2023-06-10 08:45:31.718 [info] [Info  - 8:45:31 AM] (1609326) [IDX(2)] Long operation: index execution environment /home/shubham/DrNilakshiJain-main (2869ms)
+2023-06-10 08:45:31.719 [info] [Info  - 8:45:31 AM] (1609326) [IDX(2)] Long operation: index packages /home/shubham/DrNilakshiJain-main (2886ms)
+2023-06-10 08:45:31.720 [info] [Info  - 8:45:31 AM] (1609326) indexed(2) 94 files over 1 exec env
+2023-06-10 08:45:31.746 [info] [Info  - 8:45:31 AM] (1609326) Indexing finished(2).

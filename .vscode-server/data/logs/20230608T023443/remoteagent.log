@@ -1,0 +1,31 @@
+2023-06-08 02:34:43.838 [info] 
+
+
+
+
+2023-06-08 02:34:43.868 [info] Extension host agent started.
+2023-06-08 02:34:44.007 [info] [127.0.0.1][7ded93a6][ManagementConnection] New connection established.
+2023-06-08 02:34:44.011 [info] [127.0.0.1][75755386][ExtensionHostConnection] New connection established.
+2023-06-08 02:34:44.016 [info] [127.0.0.1][75755386][ExtensionHostConnection] <3251170> Launched Extension Host Process.
+2023-06-08 02:34:49.839 [info] Getting Manifest... ms-python.vscode-pylance
+2023-06-08 02:34:49.901 [info] Installing extension: ms-python.vscode-pylance
+2023-06-08 02:34:50.712 [info] Getting Manifest... ms-python.python
+2023-06-08 02:34:55.375 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-06-08 02:34:59.808 [info] Extracted extension to /home/shubham/.vscode-server/extensions/.443dec01-f93d-47cc-ba72-b1b87804450c: ms-python.vscode-pylance
+2023-06-08 02:34:59.819 [info] Renamed to /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10
+2023-06-08 02:34:59.821 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-06-08 02:34:59.831 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-06-08 02:34:59.839 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.5.50
+2023-06-08 02:39:43.869 [info] New EH opened, aborting shutdown
+2023-06-08 02:53:18.774 [info] [127.0.0.1][7ded93a6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-08 02:53:18.851 [info] [127.0.0.1][75755386][ExtensionHostConnection] <3251170> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 02:53:18.851 [info] Last EH closed, waiting before shutting down
+2023-06-08 02:56:55.674 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-08 02:56:55.674 [info] Cancelling previous shutdown timeout
+2023-06-08 02:56:55.837 [info] [127.0.0.1][7a1035ae][ManagementConnection] New connection established.
+2023-06-08 02:56:55.900 [info] [127.0.0.1][7d568d3f][ExtensionHostConnection] New connection established.
+2023-06-08 02:56:55.914 [info] [127.0.0.1][7d568d3f][ExtensionHostConnection] <3301426> Launched Extension Host Process.
+2023-06-08 03:01:55.675 [info] New EH opened, aborting shutdown
+2023-06-08 06:14:00.755 [info] [127.0.0.1][7d568d3f][ExtensionHostConnection] <3301426> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 06:14:00.757 [info] Last EH closed, waiting before shutting down
+2023-06-08 06:19:00.759 [info] Last EH closed, shutting down

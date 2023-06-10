@@ -1,0 +1,27 @@
+2023-06-08 10:40:58.424 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-06-08 10:40:58.424 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-06-08 10:40:58.424 [info] Test server listening.
+2023-06-08 10:40:58.516 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:40:58.595 [info] > C:\Users\shubh\AppData\Local\Programs\Python\Python311\python.exe -c "import sys;print(sys.executable)"
+2023-06-08 10:40:58.600 [error] [Error: Command failed: C:\Users\shubh\AppData\Local\Programs\Python\Python311\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersshubhAppDataLocalProgramsPythonPython311python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\shubh\\AppData\\Local\\Programs\\Python\\Python311\\python.exe -c "import sys;print(sys.executable)"'
+}
+2023-06-08 10:40:58.610 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:40:58.610 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:40:58.610 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:40:58.610 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:40:58.611 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:40:59.089 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:40:59.089 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 10:41:00.031 [info] Starting Pylance language server.

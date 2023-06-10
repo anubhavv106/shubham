@@ -1,0 +1,57 @@
+2023-06-07 07:48:24.276 [info] Log level: Info
+2023-06-07 07:48:24.276 [info] Validating found git in: "git"
+2023-06-07 07:48:24.276 [info] Using git "2.34.1" from "git"
+2023-06-07 07:48:24.276 [info] > git rev-parse --show-toplevel [57ms]
+2023-06-07 07:48:24.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.276 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 07:48:24.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.276 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 07:48:24.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.276 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 07:48:24.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.276 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 07:48:24.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.277 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 07:48:24.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.277 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 07:48:24.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.277 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-07 07:48:24.277 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-06-07 07:48:24.277 [info] Open repository: /home/shubham/anubhav.tech
+2023-06-07 07:48:24.277 [info] > git rev-parse --show-toplevel [17ms]
+2023-06-07 07:48:24.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:48:24.277 [info] > git config --get commit.template [12ms]
+2023-06-07 07:48:24.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [47ms]
+2023-06-07 07:48:24.352 [info] > git status -z -uall [200ms]
+2023-06-07 07:48:24.410 [info] > git config --get commit.template [12ms]
+2023-06-07 07:48:24.420 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-06-07 07:48:24.610 [info] > git status -z -uall [180ms]
+2023-06-07 07:48:24.669 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-07 07:48:24.957 [info] > git fetch [908ms]
+2023-06-07 07:48:24.957 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/anubhavv69/anubhav.tech.git/'
+2023-06-07 07:48:24.977 [info] > git config --get commit.template [10ms]
+2023-06-07 07:48:24.978 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-06-07 07:48:25.091 [info] > git status -z -uall [105ms]
+2023-06-07 07:48:36.073 [info] > git check-ignore -v -z --stdin [6ms]
+2023-06-07 07:58:49.319 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-07 07:58:49.328 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:59:10.505 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-07 07:59:10.505 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 07:59:23.716 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-07 07:59:23.737 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-06-07 07:59:23.778 [info] Open repository: /home/shubham
+2023-06-07 07:59:23.795 [info] > git config --get commit.template [3ms]
+2023-06-07 07:59:23.802 [info] No remotes found in the git config file.
+2023-06-07 07:59:23.803 [info] > git fetch [27ms]
+2023-06-07 07:59:23.810 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-06-07 07:59:23.813 [info] > git config --get commit.template [2ms]
+2023-06-07 07:59:23.820 [info] No remotes found in the git config file.
+2023-06-07 07:59:23.821 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-07 07:59:24.011 [info] > git status -z -uall [184ms] (cancelled)
+2023-06-07 07:59:24.413 [info] > git check-ignore -v -z --stdin [18ms]
+2023-06-07 07:59:24.415 [info] > git check-ignore -v -z --stdin [4ms]

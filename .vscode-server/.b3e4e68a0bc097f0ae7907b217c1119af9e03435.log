@@ -1,0 +1,257 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:39011 (IPv4)
+Extension host agent listening on 39011
+
+[03:34:43] 
+
+
+
+
+[03:34:43] Extension host agent started.
+[03:34:44] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:44] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:44] Deleted from disk ms-python.python /home/shubham/.vscode-server/extensions/ms-python.python-2023.8.0
+[03:34:44] [127.0.0.1][6df3b0a9][ManagementConnection] New connection established.
+[03:34:44] [127.0.0.1][27e5bf53][ExtensionHostConnection] New connection established.
+[03:34:44] [127.0.0.1][27e5bf53][ExtensionHostConnection] <1383976> Launched Extension Host Process.
+[03:34:44] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:44] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:45] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:46] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[03:34:46] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:51] [127.0.0.1][6df3b0a9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[03:34:51] [127.0.0.1][27e5bf53][ExtensionHostConnection] <1383976> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[03:34:51] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[03:34:51] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[03:34:57] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[03:34:57] Cancelling previous shutdown timeout
+[03:34:57] [127.0.0.1][9abb7923][ManagementConnection] New connection established.
+[03:34:58] [127.0.0.1][b3433829][ExtensionHostConnection] New connection established.
+[03:34:58] [127.0.0.1][b3433829][ExtensionHostConnection] <1384529> Launched Extension Host Process.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:34:58] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[03:35:00] Error [CodeExpectedError]: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[03:35:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:35:01] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+New EH opened, aborting shutdown
+[03:39:57] New EH opened, aborting shutdown
+[03:39:59] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:44:59] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:46:34] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:49:59] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8000
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+[03:54:52] Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8000
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8000
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+[03:54:52] Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8000
+}
+[03:54:59] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[03:59:59] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:04:59] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:10:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:15:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:20:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:25:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:30:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:35:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:40:01] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:46:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:52:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[04:58:00] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+[05:00:37] [127.0.0.1][9abb7923][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:00:37] [127.0.0.1][b3433829][ExtensionHostConnection] <1384529> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[05:00:37] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[05:05:37] Last EH closed, shutting down

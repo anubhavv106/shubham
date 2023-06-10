@@ -1,0 +1,16 @@
+2023-06-08 02:34:44.862 [info] Extension host with pid 3251170 started
+2023-06-08 02:34:44.880 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': Lock acquired.
+2023-06-08 02:34:44.938 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-06-08 02:34:44.939 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-08 02:34:45.716 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-06-08 02:34:46.019 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-08 02:34:46.098 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-08 02:34:46.098 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-08 02:34:46.263 [info] Eager extensions activated
+2023-06-08 02:34:46.263 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 02:34:46.264 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 02:35:26.166 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-06-08 02:40:28.726 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-06-08 02:53:18.784 [info] Extension host terminating: received terminate message from renderer
+2023-06-08 02:53:18.785 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-08 02:53:18.827 [info] Extension host with pid 3251170 exiting with code 0

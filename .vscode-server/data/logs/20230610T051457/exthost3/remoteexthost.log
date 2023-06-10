@@ -1,0 +1,16 @@
+2023-06-10 06:02:51.464 [info] Extension host with pid 1718952 started
+2023-06-10 06:02:51.521 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': Lock acquired.
+2023-06-10 06:02:51.633 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-06-10 06:02:51.634 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-10 06:02:52.276 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-10 06:02:52.283 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:manage.py'
+2023-06-10 06:02:52.727 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-10 06:02:52.728 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-10 06:02:53.230 [info] Eager extensions activated
+2023-06-10 06:02:53.230 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-10 06:02:53.231 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-10 06:02:53.641 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-06-10 06:03:10.341 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-06-10 06:03:32.420 [info] Extension host terminating: received terminate message from renderer
+2023-06-10 06:03:32.422 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-10 06:03:32.487 [info] Extension host with pid 1718952 exiting with code 0

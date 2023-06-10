@@ -1,0 +1,7 @@
+2023-06-08 02:56:59.996 [info] [Info  - 2:56:59 AM] (3301552) Pylance language server 2023.6.10 (pyright 7784093a) starting
+2023-06-08 02:56:59.996 [info] [Info  - 2:56:59 AM] (3301552) Server root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-08 02:56:59.996 [info] [Info  - 2:56:59 AM] (3301552) Starting service instance "nilakshijain"
+2023-06-08 02:57:00.053 [info] [Warn  - 2:57:00 AM] (3301552) stubPath /home/shubham/DrNilakshiJain-main/nilakshijain/typings is not a valid directory.
+2023-06-08 02:57:00.165 [info] [Info  - 2:57:00 AM] (3301552) Found 40 source files
+2023-06-08 02:57:00.501 [info] [Info  - 2:57:00 AM] (3301552) Background analysis(1) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-08 02:57:00.504 [info] [Info  - 2:57:00 AM] (3301552) Background analysis(1) started

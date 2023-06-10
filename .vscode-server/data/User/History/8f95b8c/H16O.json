@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "editor.accessibilitySupport": "off",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "remote.SSH.remotePlatform": {
+        "server.anubhavverma.tech": "linux",
+        "122.179.135.29": "linux"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "git.openRepositoryInParentFolders": "never"
+}

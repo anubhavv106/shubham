@@ -1,0 +1,15 @@
+2023-06-08 09:22:01.416 [info] Extension host with pid 4153892 started
+2023-06-08 09:22:01.433 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': Lock acquired.
+2023-06-08 09:22:01.551 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-06-08 09:22:01.554 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-08 09:22:02.127 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-08 09:22:02.146 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:manage.py'
+2023-06-08 09:22:02.595 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-08 09:22:02.596 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-08 09:22:03.091 [info] Eager extensions activated
+2023-06-08 09:22:03.092 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 09:22:03.092 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 09:22:03.671 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-06-08 09:34:25.652 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-06-08 09:34:25.663 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-08 09:34:25.706 [info] Extension host with pid 4153892 exiting with code 0

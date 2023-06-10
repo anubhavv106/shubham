@@ -1,0 +1,12 @@
+2023-06-10 05:15:00.887 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-06-10 05:15:00.887 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-06-10 05:15:00.887 [info] Test server listening.
+2023-06-10 05:15:00.887 [info] > poetry env list --full-path
+2023-06-10 05:15:00.887 [info] cwd: .
+2023-06-10 05:15:01.183 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 05:15:01.183 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 05:15:01.183 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 05:15:01.183 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 05:15:01.183 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 05:15:01.657 [info] Python interpreter path: /bin/python3
+2023-06-10 05:15:03.514 [info] Starting Pylance language server.

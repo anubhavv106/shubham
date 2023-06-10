@@ -1,0 +1,228 @@
+2023-06-08 09:21:59.567 [info] 
+
+
+
+
+2023-06-08 09:21:59.617 [info] Extension host agent started.
+2023-06-08 09:21:59.881 [info] [127.0.0.1][f8d7f4e6][ExtensionHostConnection] New connection established.
+2023-06-08 09:21:59.883 [info] [127.0.0.1][4a8f7aca][ManagementConnection] New connection established.
+2023-06-08 09:21:59.916 [info] Deleted from disk ms-python.vscode-pylance /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.50
+2023-06-08 09:21:59.946 [info] [127.0.0.1][f8d7f4e6][ExtensionHostConnection] <4153892> Launched Extension Host Process.
+2023-06-08 09:22:01.839 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 09:26:59.619 [info] New EH opened, aborting shutdown
+2023-06-08 09:29:25.567 [info] [127.0.0.1][798368e7][ManagementConnection] New connection established.
+2023-06-08 09:29:25.621 [info] [127.0.0.1][0252f835][ExtensionHostConnection] New connection established.
+2023-06-08 09:29:25.635 [info] [127.0.0.1][0252f835][ExtensionHostConnection] <4170370> Launched Extension Host Process.
+2023-06-08 09:34:25.724 [info] [127.0.0.1][f8d7f4e6][ExtensionHostConnection] <4153892> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 10:03:18.595 [info] [127.0.0.1][cb72eb90][ManagementConnection] New connection established.
+2023-06-08 10:03:18.662 [info] [127.0.0.1][f6b637aa][ExtensionHostConnection] New connection established.
+2023-06-08 10:03:18.683 [info] [127.0.0.1][f6b637aa][ExtensionHostConnection] <51911> Launched Extension Host Process.
+2023-06-08 10:08:18.898 [info] [127.0.0.1][0252f835][ExtensionHostConnection] <4170370> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 10:15:02.486 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateIcon (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2702)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 10:15:02.490 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 10:15:02.491 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 10:22:20.496 [info] [127.0.0.1][b544ed63][ManagementConnection] New connection established.
+2023-06-08 10:22:20.551 [info] [127.0.0.1][f7b2e786][ExtensionHostConnection] New connection established.
+2023-06-08 10:22:20.566 [info] [127.0.0.1][f7b2e786][ExtensionHostConnection] <94655> Launched Extension Host Process.
+2023-06-08 10:22:23.048 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 10:22:29.652 [info] [127.0.0.1][b544ed63][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-08 10:22:29.696 [info] [127.0.0.1][f7b2e786][ExtensionHostConnection] <94655> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 10:22:35.723 [info] [127.0.0.1][26e2d3a3][ManagementConnection] New connection established.
+2023-06-08 10:22:35.891 [info] [127.0.0.1][3b04fd77][ExtensionHostConnection] New connection established.
+2023-06-08 10:22:35.916 [info] [127.0.0.1][3b04fd77][ExtensionHostConnection] <95404> Launched Extension Host Process.
+2023-06-08 10:27:20.691 [info] [127.0.0.1][f6b637aa][ExtensionHostConnection] <51911> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 10:27:31.818 [info] [127.0.0.1][26e2d3a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-08 10:27:31.879 [info] [127.0.0.1][3b04fd77][ExtensionHostConnection] <95404> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 10:27:31.880 [info] Last EH closed, waiting before shutting down
+2023-06-08 10:30:04.680 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-08 10:30:04.681 [info] Cancelling previous shutdown timeout
+2023-06-08 10:30:05.071 [info] [127.0.0.1][cf7ab902][ManagementConnection] New connection established.
+2023-06-08 10:30:05.291 [info] [127.0.0.1][767d4b53][ExtensionHostConnection] New connection established.
+2023-06-08 10:30:05.315 [info] [127.0.0.1][767d4b53][ExtensionHostConnection] <112484> Launched Extension Host Process.
+2023-06-08 10:30:29.747 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-08 10:30:29.747 [info] Cancelling previous shutdown timeout
+2023-06-08 10:30:29.927 [info] [127.0.0.1][cf7ab902][ManagementConnection] The client has reconnected.
+2023-06-08 10:30:30.983 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateIcon (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2702)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 10:30:30.989 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 10:30:30.990 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 10:33:14.982 [info] [127.0.0.1][cf7ab902][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-08 10:35:29.749 [info] New EH opened, aborting shutdown
+2023-06-08 10:40:53.169 [info] [127.0.0.1][b3653ccb][ManagementConnection] New connection established.
+2023-06-08 10:40:53.240 [info] [127.0.0.1][b831e5a3][ExtensionHostConnection] New connection established.
+2023-06-08 10:40:53.260 [info] [127.0.0.1][b831e5a3][ExtensionHostConnection] <136038> Launched Extension Host Process.
+2023-06-08 10:40:56.739 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 11:09:52.032 [info] [127.0.0.1][35384964][ManagementConnection] New connection established.
+2023-06-08 11:09:52.083 [info] [127.0.0.1][61b94392][ExtensionHostConnection] New connection established.
+2023-06-08 11:09:52.104 [info] [127.0.0.1][61b94392][ExtensionHostConnection] <200135> Launched Extension Host Process.
+2023-06-08 11:14:47.256 [info] [127.0.0.1][35384964][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-08 11:14:47.333 [info] [127.0.0.1][61b94392][ExtensionHostConnection] <200135> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 11:14:52.093 [info] [127.0.0.1][767d4b53][ExtensionHostConnection] <112484> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 11:14:52.240 [info] [127.0.0.1][b831e5a3][ExtensionHostConnection] <136038> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 11:14:52.240 [info] Last EH closed, waiting before shutting down
+2023-06-08 11:16:57.325 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-08 11:16:57.325 [info] Cancelling previous shutdown timeout
+2023-06-08 11:16:57.608 [info] [127.0.0.1][05e1ca42][ManagementConnection] New connection established.
+2023-06-08 11:16:57.708 [info] [127.0.0.1][0de3d702][ExtensionHostConnection] New connection established.
+2023-06-08 11:16:57.717 [info] [127.0.0.1][0de3d702][ExtensionHostConnection] <216158> Launched Extension Host Process.
+2023-06-08 11:17:01.308 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateIcon (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2702)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 11:17:01.309 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-08 11:21:57.326 [info] New EH opened, aborting shutdown
+2023-06-08 14:04:07.535 [info] [127.0.0.1][22925c32][ManagementConnection] New connection established.
+2023-06-08 14:04:07.553 [info] [127.0.0.1][e0574ccc][ExtensionHostConnection] New connection established.
+2023-06-08 14:04:07.560 [info] [127.0.0.1][e0574ccc][ExtensionHostConnection] <586754> Launched Extension Host Process.
+2023-06-08 14:06:21.016 [info] [127.0.0.1][22925c32][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-08 14:06:21.056 [info] [127.0.0.1][e0574ccc][ExtensionHostConnection] <586754> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 14:09:07.697 [info] [127.0.0.1][0de3d702][ExtensionHostConnection] <216158> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 14:09:07.697 [info] Last EH closed, waiting before shutting down
+2023-06-08 14:13:21.268 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-08 14:13:21.269 [info] Cancelling previous shutdown timeout
+2023-06-08 14:13:21.494 [info] [127.0.0.1][d15b9ab1][ManagementConnection] New connection established.
+2023-06-08 14:13:21.520 [info] [127.0.0.1][60349201][ExtensionHostConnection] New connection established.
+2023-06-08 14:13:21.537 [info] [127.0.0.1][60349201][ExtensionHostConnection] <607685> Launched Extension Host Process.
+2023-06-08 14:18:21.270 [info] New EH opened, aborting shutdown
+2023-06-08 18:06:57.470 [info] [127.0.0.1][60349201][ExtensionHostConnection] <607685> Extension Host Process exited with code: 0, signal: null.
+2023-06-08 18:06:57.471 [info] Last EH closed, waiting before shutting down
+2023-06-08 18:11:57.472 [info] Last EH closed, shutting down

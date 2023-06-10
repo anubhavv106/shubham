@@ -1,0 +1,14 @@
+2023-06-08 10:22:47.194 [info] [Info  - 10:22:47 AM] (95762) Pylance language server 2023.6.10 (pyright 7784093a) starting
+2023-06-08 10:22:47.194 [info] [Info  - 10:22:47 AM] (95762) Server root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-08 10:22:47.194 [info] [Info  - 10:22:47 AM] (95762) Starting service instance "anubhavverma"
+2023-06-08 10:22:47.254 [info] [Warn  - 10:22:47 AM] (95762) stubPath /home/shubham/anubhav.tech/anubhavverma/typings is not a valid directory.
+2023-06-08 10:22:47.367 [info] [Info  - 10:22:47 AM] (95762) Found 37 source files
+2023-06-08 10:22:47.711 [info] [Info  - 10:22:47 AM] (95762) Background analysis(1) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-08 10:22:47.715 [info] [Info  - 10:22:47 AM] (95762) Background analysis(1) started
+2023-06-08 10:23:15.845 [info] [Info  - 10:23:15 AM] (95762) Indexer background runner(2) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-08 10:23:15.846 [info] [Info  - 10:23:15 AM] (95762) Indexing(2) started
+2023-06-08 10:23:16.527 [info] [Info  - 10:23:16 AM] (95762) scanned(2) 169 files over 1 exec env
+2023-06-08 10:23:19.179 [info] [Info  - 10:23:19 AM] (95762) [IDX(2)] Long operation: index execution environment /home/shubham/anubhav.tech/anubhavverma (2586ms)
+2023-06-08 10:23:19.185 [info] [Info  - 10:23:19 AM] (95762) [IDX(2)] Long operation: index packages /home/shubham/anubhav.tech/anubhavverma (2597ms)
+2023-06-08 10:23:19.185 [info] [Info  - 10:23:19 AM] (95762) indexed(2) 94 files over 1 exec env
+2023-06-08 10:23:19.198 [info] [Info  - 10:23:19 AM] (95762) Indexing finished(2).

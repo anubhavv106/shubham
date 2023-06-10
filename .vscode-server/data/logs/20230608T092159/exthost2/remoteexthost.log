@@ -1,0 +1,17 @@
+2023-06-08 09:29:28.684 [info] Extension host with pid 4170370 started
+2023-06-08 09:29:28.687 [error] Error: EEXIST: file already exists, open '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock'
+2023-06-08 09:29:28.692 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-06-08 09:29:28.698 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98/vscode.lock': The lock does not look stale, elapsed: 871 ms, giving up.
+2023-06-08 09:29:28.701 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98-1/vscode.lock': Lock acquired.
+2023-06-08 09:29:29.136 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-06-08 09:29:29.138 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-08 09:29:30.140 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-08 09:29:31.274 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-06-08 09:29:31.530 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-08 09:29:31.530 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-08 09:29:31.776 [info] Eager extensions activated
+2023-06-08 09:29:31.777 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 09:29:31.777 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 10:08:18.823 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-06-08 10:08:18.826 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/f523ab4e2b9a2da8c7adc3ee0eda2a98-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-08 10:08:18.881 [info] Extension host with pid 4170370 exiting with code 0

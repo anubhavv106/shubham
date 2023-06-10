@@ -1,0 +1,17 @@
+2023-06-08 14:04:08.543 [info] Extension host with pid 586754 started
+2023-06-08 14:04:08.547 [error] Error: EEXIST: file already exists, open '/home/shubham/.vscode-server/data/User/workspaceStorage/50dc5256f19f23f4b4d7c9ac07f4420a/vscode.lock'
+2023-06-08 14:04:08.559 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/50dc5256f19f23f4b4d7c9ac07f4420a/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-06-08 14:04:08.567 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/50dc5256f19f23f4b4d7c9ac07f4420a/vscode.lock': The lock does not look stale, elapsed: 249 ms, giving up.
+2023-06-08 14:04:08.573 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/50dc5256f19f23f4b4d7c9ac07f4420a-1/vscode.lock': Lock acquired.
+2023-06-08 14:04:08.716 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-08 14:04:09.186 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-08 14:04:09.197 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:manage.py'
+2023-06-08 14:04:09.509 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-08 14:04:09.509 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-08 14:04:09.915 [info] Eager extensions activated
+2023-06-08 14:04:09.916 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 14:04:09.916 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-08 14:04:10.327 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-06-08 14:06:21.015 [info] Extension host terminating: received terminate message from renderer
+2023-06-08 14:06:21.016 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/50dc5256f19f23f4b4d7c9ac07f4420a-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-08 14:06:21.044 [info] Extension host with pid 586754 exiting with code 0

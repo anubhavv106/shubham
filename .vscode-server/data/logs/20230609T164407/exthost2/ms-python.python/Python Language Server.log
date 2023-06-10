@@ -1,0 +1,15 @@
+2023-06-09 16:44:45.135 [info] [Info  - 4:44:45 PM] (4132613) Pylance language server 2023.6.10 (pyright 7784093a) starting
+2023-06-09 16:44:45.136 [info] [Info  - 4:44:45 PM] (4132613) Server root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-09 16:44:45.136 [info] [Info  - 4:44:45 PM] (4132613) Starting service instance "nilakshijain"
+2023-06-09 16:44:45.200 [info] [Info  - 4:44:45 PM] (4132613) Setting pythonPath for service "nilakshijain": "/home/shubham/DrNilakshiJain-main/nilakshijain/myenv/bin/python"
+2023-06-09 16:44:45.210 [info] [Warn  - 4:44:45 PM] (4132613) stubPath /home/shubham/DrNilakshiJain-main/nilakshijain/typings is not a valid directory.
+2023-06-09 16:44:45.246 [info] [Info  - 4:44:45 PM] (4132613) Assuming Python version 3.10
+2023-06-09 16:44:45.361 [info] [Info  - 4:44:45 PM] (4132613) Auto-excluding /home/shubham/DrNilakshiJain-main/nilakshijain/myenv
+2023-06-09 16:44:45.382 [info] [Info  - 4:44:45 PM] (4132613) Found 40 source files
+2023-06-09 16:44:46.124 [info] [Info  - 4:44:46 PM] (4132613) Background analysis(1) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-09 16:44:46.124 [info] [Info  - 4:44:46 PM] (4132613) Background analysis(1) started
+2023-06-09 16:44:46.302 [info] [Info  - 4:44:46 PM] (4132613) Indexer background runner(2) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-09 16:44:46.304 [info] [Info  - 4:44:46 PM] (4132613) Indexing(2) started
+2023-06-09 16:44:47.188 [info] [Info  - 4:44:47 PM] (4132613) scanned(2) 12 files over 1 exec env
+2023-06-09 16:44:47.544 [info] [Info  - 4:44:47 PM] (4132613) indexed(2) 4 files over 1 exec env
+2023-06-09 16:44:47.548 [info] [Info  - 4:44:47 PM] (4132613) Indexing finished(2).

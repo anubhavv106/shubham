@@ -1,0 +1,20 @@
+2023-06-08 11:09:54.403 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-06-08 11:09:54.403 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-06-08 11:09:54.403 [info] Test server listening.
+2023-06-08 11:09:54.403 [info] > conda info --json
+2023-06-08 11:09:54.403 [info] Found: /bin/python3 --> /bin/python3.10
+2023-06-08 11:09:54.403 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-06-08 11:09:54.404 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-06-08 11:09:54.405 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-06-08 11:09:54.430 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 11:09:54.463 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:54.475 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 11:09:54.537 [info] Python interpreter path: /bin/python3
+2023-06-08 11:09:54.551 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:54.551 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:54.551 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:54.551 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:54.551 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:54.938 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:54.938 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-08 11:09:55.917 [info] Starting Pylance language server.

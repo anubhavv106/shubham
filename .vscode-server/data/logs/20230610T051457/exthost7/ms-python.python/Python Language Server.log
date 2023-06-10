@@ -1,0 +1,20 @@
+2023-06-10 09:11:27.346 [info] [Info  - 9:11:27 AM] (2151418) Pylance language server 2023.6.10 (pyright 7784093a) starting
+2023-06-10 09:11:27.348 [info] [Info  - 9:11:27 AM] (2151418) Server root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-10 09:11:27.348 [info] [Info  - 9:11:27 AM] (2151418) Starting service instance "DrNilakshiJain-main"
+2023-06-10 09:11:27.460 [info] [Info  - 9:11:27 AM] (2151418) Setting pythonPath for service "DrNilakshiJain-main": "/bin/python3"
+2023-06-10 09:11:27.467 [info] [Info  - 9:11:27 AM] (2151418) Loading pyproject.toml file at /home/shubham/DrNilakshiJain-main/pyproject.toml
+2023-06-10 09:11:27.467 [info] [Info  - 9:11:27 AM] (2151418) Pyproject file "/home/shubham/DrNilakshiJain-main/pyproject.toml" has no "[tool.pyright]" section.
+2023-06-10 09:11:27.468 [info] [Warn  - 9:11:27 AM] (2151418) stubPath /home/shubham/DrNilakshiJain-main/typings is not a valid directory.
+2023-06-10 09:11:27.510 [info] [Info  - 9:11:27 AM] (2151418) Assuming Python version 3.10
+2023-06-10 09:11:27.677 [info] [Info  - 9:11:27 AM] (2151418) Auto-excluding /home/shubham/DrNilakshiJain-main/nilakshijain/myenv
+2023-06-10 09:11:27.706 [info] [Info  - 9:11:27 AM] (2151418) Found 43 source files
+2023-06-10 09:11:28.140 [info] [Info  - 9:11:28 AM] (2151418) Background analysis(1) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-10 09:11:28.145 [info] [Info  - 9:11:28 AM] (2151418) Background analysis(1) started
+2023-06-10 09:16:04.086 [info] [Info  - 9:16:04 AM] (2151418) Indexer background runner(2) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-10 09:16:04.087 [info] [Info  - 9:16:04 AM] (2151418) Indexing(2) started
+2023-06-10 09:16:05.192 [info] [Info  - 9:16:05 AM] (2151418) scanned(2) 169 files over 1 exec env
+2023-06-10 09:16:07.984 [info] [Info  - 9:16:07 AM] (2151418) [IDX(2)] Long operation: index execution environment /home/shubham/DrNilakshiJain-main (2637ms)
+2023-06-10 09:16:07.985 [info] [Info  - 9:16:07 AM] (2151418) [IDX(2)] Long operation: index packages /home/shubham/DrNilakshiJain-main (2668ms)
+2023-06-10 09:16:07.985 [info] [Info  - 9:16:07 AM] (2151418) indexed(2) 94 files over 1 exec env
+2023-06-10 09:16:08.012 [info] [Info  - 9:16:08 AM] (2151418) Indexing finished(2).
+2023-06-10 09:20:08.218 [info] [Info  - 9:20:08 AM] (2151418) Found 44 source files

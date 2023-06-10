@@ -1,0 +1,91 @@
+2023-06-10 13:47:38.308 [info] Log level: Info
+2023-06-10 13:47:38.308 [info] Validating found git in: "git"
+2023-06-10 13:47:38.308 [info] Using git "2.34.1" from "git"
+2023-06-10 13:47:38.308 [info] > git rev-parse --show-toplevel [7ms]
+2023-06-10 13:47:38.308 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-06-10 13:47:38.308 [info] Open repository: /home/shubham
+2023-06-10 13:47:38.308 [info] > git rev-parse --show-toplevel [13ms]
+2023-06-10 13:47:38.308 [info] > git config --get commit.template [12ms]
+2023-06-10 13:47:38.317 [info] No remotes found in the git config file.
+2023-06-10 13:47:38.317 [info] > git rev-parse --show-toplevel [12ms]
+2023-06-10 13:47:38.317 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-06-10 13:47:38.317 [info] > git rev-parse --show-toplevel [13ms]
+2023-06-10 13:47:38.317 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-10 13:47:38.317 [info] > git rev-parse --show-toplevel [128ms]
+2023-06-10 13:47:38.967 [info] > git check-ignore -v -z --stdin [8ms]
+2023-06-10 13:47:38.979 [info] > git status -z -uall --find-renames=50% [879ms] (cancelled)
+2023-06-10 13:47:39.024 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [11ms]
+2023-06-10 13:47:39.026 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [3ms]
+2023-06-10 13:48:29.500 [info] No remotes found in the git config file.
+2023-06-10 13:48:29.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-06-10 13:48:29.524 [info] > git config --get commit.template [39ms]
+2023-06-10 13:48:31.630 [info] > git status -z -uall --find-renames=50% [2096ms] (cancelled)
+2023-06-10 13:48:45.423 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-10 13:48:48.920 [info] > git show --textconv HEAD:.cache/pip/http/3/4/2/7/8/3427826b1ae3c3a966089a5258ac6f008c0b7752bef0bd06305e8a0e [16ms]
+2023-06-10 13:48:48.923 [info] > git ls-tree -l HEAD -- /home/shubham/.cache/pip/http/3/4/2/7/8/3427826b1ae3c3a966089a5258ac6f008c0b7752bef0bd06305e8a0e [4ms]
+2023-06-10 13:48:48.923 [info] fatal: Not a valid object name HEAD
+2023-06-10 13:48:48.979 [info] > git ls-tree -l HEAD -- /home/shubham/.cache/pip/http/3/4/2/7/8/3427826b1ae3c3a966089a5258ac6f008c0b7752bef0bd06305e8a0e [2ms]
+2023-06-10 13:48:48.979 [info] fatal: Not a valid object name HEAD
+2023-06-10 13:48:49.443 [info] > git check-ignore -v -z --stdin [4ms]
+2023-06-10 13:48:53.534 [info] > git check-ignore -v -z --stdin [5ms]
+2023-06-10 13:48:56.770 [info] > git show --textconv :.git/COMMIT_EDITMSG [26ms]
+2023-06-10 13:48:56.774 [info] > git ls-files --stage -- /home/shubham/.git/COMMIT_EDITMSG [6ms]
+2023-06-10 13:48:57.003 [info] > git check-ignore -v -z --stdin [4ms]
+2023-06-10 13:48:57.376 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [26ms]
+2023-06-10 13:48:57.383 [info] > git ls-files --stage -- /home/shubham/.git/COMMIT_EDITMSG [10ms]
+2023-06-10 13:48:57.416 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [9ms]
+2023-06-10 13:48:57.418 [info] > git show --textconv :.git/COMMIT_EDITMSG [3ms]
+2023-06-10 13:49:06.188 [info] > git -c user.useConfigOnly=true commit --quiet [10646ms]
+2023-06-10 13:49:06.188 [info] Aborting commit due to empty commit message.
+2023-06-10 13:49:06.214 [info] No remotes found in the git config file.
+2023-06-10 13:49:06.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-06-10 13:49:06.219 [info] > git config --get commit.template [19ms]
+2023-06-10 13:49:06.574 [info] > git status -z -uall --find-renames=50% [348ms] (cancelled)
+2023-06-10 13:49:30.013 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [19ms]
+2023-06-10 13:49:30.026 [info] > git config --get commit.template [1ms]
+2023-06-10 13:49:30.048 [info] No remotes found in the git config file.
+2023-06-10 13:49:30.050 [info] > git config --get commit.template [12ms]
+2023-06-10 13:49:30.050 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-10 13:49:30.358 [info] > git status -z -uall --find-renames=50% [297ms] (cancelled)
+2023-06-10 13:49:32.256 [info] > git config --get commit.template [2ms]
+2023-06-10 13:49:32.272 [info] No remotes found in the git config file.
+2023-06-10 13:49:32.275 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-10 13:49:32.559 [info] > git status -z -uall --find-renames=50% [271ms] (cancelled)
+2023-06-10 13:49:34.315 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [7ms]
+2023-06-10 13:49:34.375 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [4ms]
+2023-06-10 13:49:51.270 [info] > git remote add origin https://github.com/anubhavv69/shubham.git [11ms]
+2023-06-10 13:49:51.291 [info] > git config --get commit.template [10ms]
+2023-06-10 13:49:51.291 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-10 13:49:51.596 [info] > git status -z -uall --find-renames=50% [298ms] (cancelled)
+2023-06-10 13:49:53.629 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [3ms]
+2023-06-10 13:49:53.665 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [3ms]
+2023-06-10 13:49:54.693 [info] > git push -u origin master [3098ms]
+2023-06-10 13:49:54.693 [info] To https://github.com/anubhavv69/shubham.git
+ * [new branch]      master -> master
+2023-06-10 13:49:54.744 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-10 13:49:54.745 [info] > git config --get commit.template [17ms]
+2023-06-10 13:49:55.029 [info] > git status -z -uall --find-renames=50% [274ms] (cancelled)
+2023-06-10 13:49:56.825 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [4ms]
+2023-06-10 13:49:56.885 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [5ms]
+2023-06-10 13:50:51.541 [info] > git log --oneline --cherry master...master@{upstream} -- [3ms]
+2023-06-10 13:50:52.936 [info] > git pull --tags origin master [1385ms]
+2023-06-10 13:50:52.937 [info] From https://github.com/anubhavv69/shubham
+ * branch            master     -> FETCH_HEAD
+2023-06-10 13:50:52.971 [info] > git config --get commit.template [13ms]
+2023-06-10 13:50:52.972 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-10 13:50:53.306 [info] > git status -z -uall --find-renames=50% [325ms] (cancelled)
+2023-06-10 13:50:55.766 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [5ms]
+2023-06-10 13:50:55.905 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [5ms]
+2023-06-10 13:51:45.131 [info] > git log --oneline --cherry master...master@{upstream} -- [4ms]
+2023-06-10 13:51:46.746 [info] > git pull --tags origin master [1605ms]
+2023-06-10 13:51:46.746 [info] From https://github.com/anubhavv69/shubham
+ * branch            master     -> FETCH_HEAD
+2023-06-10 13:51:46.774 [info] > git config --get commit.template [12ms]
+2023-06-10 13:51:46.775 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-10 13:51:47.059 [info] > git status -z -uall --find-renames=50% [275ms] (cancelled)
+2023-06-10 13:51:49.061 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [5ms]
+2023-06-10 13:51:49.107 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [1ms]
+2023-06-10 13:52:41.845 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [4ms]
+2023-06-10 13:52:41.898 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [6ms]
+2023-06-10 13:52:48.274 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [7ms]
+2023-06-10 13:52:48.323 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [3ms]

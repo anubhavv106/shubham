@@ -1,0 +1,8 @@
+2023-06-09 16:44:44.170 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-06-09 16:44:44.170 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-06-09 16:44:44.170 [info] Test server listening.
+2023-06-09 16:44:44.189 [info] > ./myenv/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py
+2023-06-09 16:44:44.319 [info] Python interpreter path: ./myenv/bin/python
+2023-06-09 16:44:44.588 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-09 16:44:44.588 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-09 16:44:45.166 [info] Starting Pylance language server.

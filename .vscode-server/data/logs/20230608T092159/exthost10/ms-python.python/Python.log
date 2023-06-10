@@ -1,0 +1,12 @@
+2023-06-08 14:04:10.045 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-06-08 14:04:10.045 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-06-08 14:04:10.045 [info] Test server listening.
+2023-06-08 14:04:10.045 [info] > conda info --json
+2023-06-08 14:04:10.045 [info] Found: /bin/python3 --> /bin/python3.10
+2023-06-08 14:04:10.045 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-06-08 14:04:10.056 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-06-08 14:04:10.057 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-06-08 14:04:10.081 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 14:04:10.133 [info] Python interpreter path: /bin/python3
+2023-06-08 14:04:10.157 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 14:04:11.542 [info] Starting Pylance language server.

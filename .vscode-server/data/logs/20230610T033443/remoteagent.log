@@ -1,0 +1,87 @@
+2023-06-10 03:34:43.927 [info] 
+
+
+
+
+2023-06-10 03:34:43.959 [info] Extension host agent started.
+2023-06-10 03:34:44.079 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:44.095 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:44.099 [info] Deleted from disk ms-python.python /home/shubham/.vscode-server/extensions/ms-python.python-2023.8.0
+2023-06-10 03:34:44.330 [info] [127.0.0.1][6df3b0a9][ManagementConnection] New connection established.
+2023-06-10 03:34:44.533 [info] [127.0.0.1][27e5bf53][ExtensionHostConnection] New connection established.
+2023-06-10 03:34:44.551 [info] [127.0.0.1][27e5bf53][ExtensionHostConnection] <1383976> Launched Extension Host Process.
+2023-06-10 03:34:44.943 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:44.982 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.070 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.128 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.229 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.269 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.427 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.496 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.533 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.588 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:45.641 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:46.259 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:46.912 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:51.842 [info] [127.0.0.1][6df3b0a9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-10 03:34:51.881 [info] [127.0.0.1][27e5bf53][ExtensionHostConnection] <1383976> Extension Host Process exited with code: 0, signal: null.
+2023-06-10 03:34:51.882 [info] Cancelling previous shutdown timeout
+2023-06-10 03:34:51.882 [info] Last EH closed, waiting before shutting down
+2023-06-10 03:34:57.759 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-10 03:34:57.759 [info] Cancelling previous shutdown timeout
+2023-06-10 03:34:57.931 [info] [127.0.0.1][9abb7923][ManagementConnection] New connection established.
+2023-06-10 03:34:58.169 [info] [127.0.0.1][b3433829][ExtensionHostConnection] New connection established.
+2023-06-10 03:34:58.181 [info] [127.0.0.1][b3433829][ExtensionHostConnection] <1384529> Launched Extension Host Process.
+2023-06-10 03:34:58.260 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.302 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.419 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.535 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.543 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.568 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.587 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.615 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.636 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.664 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:34:58.744 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:35:00.459 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-10 03:35:00.586 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:35:01.151 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:39:57.760 [info] New EH opened, aborting shutdown
+2023-06-10 03:39:59.179 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:44:59.372 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:46:34.732 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:49:59.505 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:54:52.146 [error] Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-06-10 03:54:52.166 [error] Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-06-10 03:54:59.690 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 03:59:59.856 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:04:59.965 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:10:00.093 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:15:00.248 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:20:00.539 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:25:00.707 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:30:00.797 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:35:00.890 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:40:01.193 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:46:00.205 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:52:00.205 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 04:58:00.195 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-10 05:00:37.363 [info] [127.0.0.1][9abb7923][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-10 05:00:37.471 [info] [127.0.0.1][b3433829][ExtensionHostConnection] <1384529> Extension Host Process exited with code: 0, signal: null.
+2023-06-10 05:00:37.471 [info] Last EH closed, waiting before shutting down
+2023-06-10 05:05:37.473 [info] Last EH closed, shutting down

@@ -1,0 +1,30 @@
+from django.contrib import admin
+from . import models
+
+# Register your models here.
+admin.site.register(models.Book)
+admin.site.register(models.BookProvider) 
+admin.site.register(models.BookAccomplishment) 
+admin.site.register(models.Awards)
+admin.site.register(models.Project)
+admin.site.register(models.Publication)
+admin.site.register(models.Webinar)
+admin.site.register(models.Article)
+admin.site.register(models.Copyright)
+admin.site.register(models.Certification)
+admin.site.register(models.Patent)
+admin.site.register(models.ProjectType)
+admin.site.register(models.BookReviewed)
+admin.site.register(models.TeachingExperience)
+admin.site.register(models.ProfessionalMembership)
+admin.site.register(models.PaperReviewed)
+admin.site.register(models.CurriculumDevelopment)
+admin.site.register(models.Orientation)
+admin.site.register(models.Judge)
+admin.site.register(models.InternationalIV)
+admin.site.register(models.OtherMembershipType)
+admin.site.register(models.OtherMembership)
+admin.site.register(models.ResearchGrant)
+admin.site.register(models.Slideshow)
+admin.site.register(models.Home)
+

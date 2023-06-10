@@ -1,0 +1,43 @@
+2023-06-09 16:37:03.761 [info] 
+
+
+
+
+2023-06-09 16:37:03.811 [info] Extension host agent started.
+2023-06-09 16:37:04.034 [info] [127.0.0.1][d5fb913d][ManagementConnection] New connection established.
+2023-06-09 16:37:04.109 [info] [127.0.0.1][6199597b][ExtensionHostConnection] New connection established.
+2023-06-09 16:37:04.127 [info] [127.0.0.1][6199597b][ExtensionHostConnection] <4114537> Launched Extension Host Process.
+2023-06-09 16:37:06.193 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/shubham/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-09 16:42:03.824 [info] New EH opened, aborting shutdown
+2023-06-09 16:44:20.921 [info] Extensions removed from another source ms-python.python file:///home/shubham/.vscode-server/extensions/extensions.json
+2023-06-09 16:44:20.967 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 16:44:20.974 [info] Extensions added from another source ms-python.python file:///home/shubham/.vscode-server/extensions/extensions.json
+2023-06-09 16:44:21.007 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 16:44:21.336 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 16:44:21.556 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 16:47:05.897 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 16:52:06.845 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 16:57:07.062 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 17:02:07.981 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 17:07:08.111 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 17:12:08.427 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 17:17:08.658 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 17:22:08.841 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 17:27:09.011 [error] [/home/shubham/.vscode-server/extensions/ms-python.python-2023.10.0]: Extension is not compatible with Code 1.78.2. Extension requires: ^1.79.0-20230526.
+2023-06-09 17:28:39.023 [info] [127.0.0.1][d5fb913d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-09 17:28:39.123 [info] [127.0.0.1][6199597b][ExtensionHostConnection] <4114537> Extension Host Process exited with code: 0, signal: null.
+2023-06-09 17:28:39.124 [info] Last EH closed, waiting before shutting down
+2023-06-09 17:33:39.125 [info] Last EH closed, shutting down

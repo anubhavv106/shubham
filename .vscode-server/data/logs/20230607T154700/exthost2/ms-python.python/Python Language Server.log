@@ -1,0 +1,14 @@
+2023-06-07 15:47:19.371 [info] [Info  - 3:47:19 PM] (1815361) Pylance language server 2023.5.50 (pyright 0d248834) starting
+2023-06-07 15:47:19.372 [info] [Info  - 3:47:19 PM] (1815361) Server root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.50/dist
+2023-06-07 15:47:19.372 [info] [Info  - 3:47:19 PM] (1815361) Starting service instance "nilakshijain"
+2023-06-07 15:47:19.443 [info] [Warn  - 3:47:19 PM] (1815361) stubPath /home/shubham/DrNilakshiJain-main/nilakshijain/typings is not a valid directory.
+2023-06-07 15:47:19.637 [info] [Info  - 3:47:19 PM] (1815361) Found 40 source files
+2023-06-07 15:47:20.066 [info] [Info  - 3:47:20 PM] (1815361) Background analysis(1) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.50/dist
+2023-06-07 15:47:20.066 [info] [Info  - 3:47:20 PM] (1815361) Background analysis(1) started
+2023-06-07 15:47:21.884 [info] [Info  - 3:47:21 PM] (1815361) Indexer background runner(2) root directory: /home/shubham/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.50/dist (index)
+2023-06-07 15:47:21.884 [info] [Info  - 3:47:21 PM] (1815361) Indexing(2) started
+2023-06-07 15:47:23.115 [info] [Info  - 3:47:23 PM] (1815361) scanned(2) 169 files over 1 exec env
+2023-06-07 15:47:25.592 [info] [Info  - 3:47:25 PM] (1815361) [IDX(2)] Long operation: index execution environment /home/shubham/DrNilakshiJain-main/nilakshijain (2378ms)
+2023-06-07 15:47:25.593 [info] [Info  - 3:47:25 PM] (1815361) [IDX(2)] Long operation: index packages /home/shubham/DrNilakshiJain-main/nilakshijain (2392ms)
+2023-06-07 15:47:25.593 [info] [Info  - 3:47:25 PM] (1815361) indexed(2) 94 files over 1 exec env
+2023-06-07 15:47:25.610 [info] [Info  - 3:47:25 PM] (1815361) Indexing finished(2).

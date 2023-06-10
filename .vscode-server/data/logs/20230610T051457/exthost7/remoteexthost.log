@@ -1,0 +1,114 @@
+2023-06-10 09:11:22.046 [info] Extension host with pid 2151098 started
+2023-06-10 09:11:22.064 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/14e7fffc128ca4d64b5342becb0ebdb7/vscode.lock': Lock acquired.
+2023-06-10 09:11:22.964 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-06-10 09:11:22.965 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-10 09:11:23.966 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-10 09:11:23.971 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:pyproject.toml'
+2023-06-10 09:11:24.353 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-10 09:11:24.353 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-10 09:11:24.808 [info] Eager extensions activated
+2023-06-10 09:11:24.808 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-10 09:11:24.809 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-10 09:11:26.065 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-06-10 09:11:29.926 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-06-10 09:11:31.995 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-06-10 09:19:51.350 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-06-10 09:49:37.396 [info] Extension host terminating: received terminate message from renderer
+2023-06-10 09:49:37.397 [info] Lock '/home/shubham/.vscode-server/data/User/workspaceStorage/14e7fffc128ca4d64b5342becb0ebdb7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-10 09:49:37.432 [error] Canceled: Canceled
+	at new l (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:105905)
+	at s.O (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:112:11754)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:112:9029)
+	at e.ExtHostCommands.g (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:130078)
+	at e.ExtHostCommands.executeCommand (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:129454)
+	at k.registerCommand.description (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:128747)
+	at e.ExtHostCommands.h (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:130664)
+	at e.ExtHostCommands.g (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:129554)
+	at e.ExtHostCommands.executeCommand (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:129454)
+	at Object.executeCommand (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:118:24230)
+	at D (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1261260)
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1276093)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1280594
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1280580)
+	at r.<anonymous> (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:98:12552)
+	at r.dispose (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:98:12687)
+	at r.<anonymous> (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1263390)
+	at r.dispose (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:98:12687)
+	at I (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:10:12083)
+	at n.Z (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:11285)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9175)
+	at n.terminate (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9445)
+	at h.terminate (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:118:1544)
+	at p (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:34497)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:32407
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+	at D.E (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:18830)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:16818
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at h.acceptChunk (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:12514)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:11801
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at E.u (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:20017) setContext undefined
+2023-06-10 09:49:37.434 [error] Canceled: Canceled
+	at new l (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:105905)
+	at s.O (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:112:11754)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:112:9029)
+	at e.ExtHostCommands.g (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:130078)
+	at e.ExtHostCommands.executeCommand (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:129454)
+	at k.registerCommand.description (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:128747)
+	at e.ExtHostCommands.h (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:130664)
+	at e.ExtHostCommands.g (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:129554)
+	at e.ExtHostCommands.executeCommand (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:100:129454)
+	at Object.executeCommand (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:118:24230)
+	at p.VscodeDevShareProvider.set b [as b] (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/github/dist/extension.js:2:152873)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/github/dist/extension.js:2:153583
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1348853
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1276093)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1280594
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1280580)
+	at r.<anonymous> (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:98:12552)
+	at r.dispose (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:98:12687)
+	at r.<anonymous> (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/git/dist/main.js:2:1263390)
+	at r.dispose (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:98:12687)
+	at I (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:10:12083)
+	at n.Z (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:11285)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9175)
+	at n.terminate (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9445)
+	at h.terminate (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:118:1544)
+	at p (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:34497)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:32407
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+	at D.E (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:18830)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:16818
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at h.acceptChunk (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:12514)
+	at /home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:11801
+	at b.invoke (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at E.u (/home/shubham/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:20017) setContext undefined
+2023-06-10 09:49:37.448 [info] Extension host with pid 2151098 exiting with code 0

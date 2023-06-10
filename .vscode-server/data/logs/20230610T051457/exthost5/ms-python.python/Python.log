@@ -1,0 +1,51 @@
+2023-06-10 07:29:10.844 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-06-10 07:29:10.844 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-06-10 07:29:10.844 [info] Test server listening.
+2023-06-10 07:29:10.844 [info] > ./myenv/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py
+2023-06-10 07:29:10.938 [info] Python interpreter path: ./myenv/bin/python
+2023-06-10 07:29:12.768 [info] Starting Pylance language server.
+2023-06-10 09:16:12.336 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:14.585 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:27.833 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:29.417 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:34.435 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:36.073 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:38.227 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:40.280 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:42.730 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:45.337 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:49.594 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:52.076 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:16:54.245 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:09.763 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:12.753 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:15.191 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:18.361 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:19.465 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:20.878 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:22.156 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:23.438 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:25.806 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:36.714 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:42.559 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:44.884 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:48.350 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:49.664 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:51.700 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:55.125 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:17:57.344 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:02.788 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:05.069 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:06.914 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:09.362 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:13.762 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:17.450 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:19.607 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:22.795 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:28.205 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:34.449 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:37.211 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:41.106 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:42.238 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:18:45.609 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py
+2023-06-10 09:20:08.145 [info] Discover tests for workspace name: nilakshijain - uri: /home/shubham/DrNilakshiJain-main/nilakshijain/main/migrations/0030_book_getfrom1_book_getfrom1_link_book_getfrom2_and_more.py

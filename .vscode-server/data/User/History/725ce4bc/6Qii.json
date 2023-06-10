@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "remote.SSH.remotePlatform": {
+        "122.179.135.29": "linux"
+    },
+    "git.confirmSync": false
+}

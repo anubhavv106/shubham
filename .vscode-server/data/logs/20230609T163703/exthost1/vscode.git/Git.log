@@ -1,0 +1,35 @@
+2023-06-09 16:37:08.471 [info] Log level: Info
+2023-06-09 16:37:08.471 [info] Validating found git in: "git"
+2023-06-09 16:37:08.471 [info] Using git "2.34.1" from "git"
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [51ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-06-09 16:37:08.471 [info] Open repository: /home/shubham
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [14ms]
+2023-06-09 16:37:08.471 [info] > git config --get commit.template [19ms]
+2023-06-09 16:37:08.471 [info] No remotes found in the git config file.
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [18ms]
+2023-06-09 16:37:08.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [14ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [58ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [27ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [13ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --git-dir --git-common-dir [28ms]
+2023-06-09 16:37:08.471 [info] Open repository: /home/shubham/anubhav.tech
+2023-06-09 16:37:08.471 [info] > git config --get commit.template [7ms]
+2023-06-09 16:37:08.471 [info] > git rev-parse --show-toplevel [28ms]
+2023-06-09 16:37:08.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-06-09 16:37:08.471 [info] > git status -z -uall [210ms]
+2023-06-09 16:37:08.471 [info] > git config --get commit.template [20ms]
+2023-06-09 16:37:08.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [245ms]
+2023-06-09 16:37:08.471 [info] > git status -z -uall [169ms]
+2023-06-09 16:37:08.471 [info] > git check-ignore -v -z --stdin [15ms]
+2023-06-09 16:37:08.471 [info] > git check-ignore -v -z --stdin [6ms]
+2023-06-09 16:37:08.471 [info] > git status -z -uall [1063ms] (cancelled)
+2023-06-09 16:37:08.471 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [15ms]
+2023-06-09 16:37:08.471 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [2ms]
+2023-06-09 16:37:11.812 [info] > git config --get commit.template [11ms]
+2023-06-09 16:37:11.823 [info] No remotes found in the git config file.
+2023-06-09 16:37:11.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-06-09 16:37:12.232 [info] > git status -z -uall [397ms] (cancelled)

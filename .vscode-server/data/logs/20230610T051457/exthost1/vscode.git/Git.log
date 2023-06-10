@@ -1,0 +1,38 @@
+2023-06-10 05:15:01.106 [info] Log level: Info
+2023-06-10 05:15:01.106 [info] Validating found git in: "git"
+2023-06-10 05:15:01.106 [info] Using git "2.34.1" from "git"
+2023-06-10 05:15:01.106 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-10 05:15:01.106 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-10 05:15:01.106 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-10 05:15:01.106 [info] > git rev-parse --show-toplevel [106ms]
+2023-06-10 05:15:01.106 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-10 05:15:02.939 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-10 05:15:13.782 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-10 05:15:13.802 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-06-10 05:15:13.814 [info] Open repository: /home/shubham
+2023-06-10 05:15:13.831 [info] No remotes found in the git config file.
+2023-06-10 05:15:13.833 [info] > git config --get commit.template [10ms]
+2023-06-10 05:15:13.834 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-06-10 05:15:14.171 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/index.html [9ms]
+2023-06-10 05:15:14.173 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/index.html [3ms]
+2023-06-10 05:15:14.348 [info] > git status -z -uall --find-renames=50% [506ms] (cancelled)
+2023-06-10 05:15:14.395 [info] > git check-ignore -v -z --stdin [1ms]
+2023-06-10 05:15:19.549 [info] > git config --get commit.template [10ms]
+2023-06-10 05:15:19.566 [info] No remotes found in the git config file.
+2023-06-10 05:15:19.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-06-10 05:15:19.937 [info] > git status -z -uall --find-renames=50% [360ms] (cancelled)
+2023-06-10 05:17:49.923 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/templates/book-info.html [28ms]
+2023-06-10 05:17:49.930 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/templates/book-info.html [10ms]
+2023-06-10 07:11:15.436 [info] > git check-ignore -v -z --stdin [7ms]
+2023-06-10 08:45:26.877 [info] > git show --textconv :DrNilakshiJain-main/nilakshijain/main/models.py [20ms]
+2023-06-10 08:45:26.883 [info] > git ls-files --stage -- /home/shubham/DrNilakshiJain-main/nilakshijain/main/models.py [7ms]
+2023-06-10 08:45:27.401 [info] > git check-ignore -v -z --stdin [4ms]
+2023-06-10 08:57:25.586 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-10 08:57:28.586 [info] > git check-ignore -v -z --stdin [4ms]
+2023-06-10 08:57:30.837 [info] > git check-ignore -v -z --stdin [4ms]
+2023-06-10 08:57:59.618 [info] > git check-ignore -v -z --stdin [1ms]
+2023-06-10 08:58:24.064 [info] > git check-ignore -v -z --stdin [3ms]
+2023-06-10 08:58:59.194 [info] > git check-ignore -v -z --stdin [5ms]
+2023-06-10 08:59:04.202 [info] > git check-ignore -v -z --stdin [7ms]
+2023-06-10 08:59:10.483 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-10 08:59:17.474 [info] > git check-ignore -v -z --stdin [1ms]
